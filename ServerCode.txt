@@ -1,0 +1,11 @@
+# 
+#Project : ICT 캡스톤 디자인 프로젝트
+#
+#
+#
+#
+#
+#
+
+# 
+mysql -uegoing -p234!#@ave -hopentutorialsorg.cfiilfasasqyvjxr.ap-northeast-1.rds.amazonaws.com
