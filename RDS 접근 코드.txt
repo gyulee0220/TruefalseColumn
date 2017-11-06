@@ -1,12 +1,12 @@
-#³»¿ë : EC2 ¼­¹ö¿¡¼­ RDS¼­¹ö·Î Á¢±ÙÇÏ´Â ¹æ¹ı
+#ë‚´ìš© : EC2 ì„œë²„ì—ì„œ RDSì„œë²„ë¡œ ì ‘ê·¼í•˜ëŠ” ë°©ë²•
 # 
-#Project : ICT Ä¸½ºÅæ µğÀÚÀÎ ÇÁ·ÎÁ§Æ®
+#Project : ICT ìº¡ìŠ¤í†¤ ë””ìì¸ í”„ë¡œì íŠ¸
 #
 #User : add6987
-#PW : xmfnzoqtmxhs0220
-#¼­¹ö ÁÖ¼Ò :mydbinstance.cbomcikdkezg.ap-northeast-2.rds.amazonaws.com
+#PW : 
+#ì„œë²„ ì£¼ì†Œ :mydbinstance.cbomcikdkezg.ap-northeast-2.rds.amazonaws.com
 #
 #
-#¾Æ·¡ ÄÚµå ÀÔ·Â½Ã ÇØ´ç µ¥ÀÌÅÍ º£ÀÌ½º ¼öÁ¤ °¡´É
+#ì•„ë˜ ì½”ë“œ ì…ë ¥ì‹œ í•´ë‹¹ ë°ì´í„° ë² ì´ìŠ¤ ìˆ˜ì • ê°€ëŠ¥
 # 
-mysql -uadd6987 -pxmfnzoqtmxhs0220 -hmydbinstance.cbomcikdkezg.ap-northeast-2.rds.amazonaws.com
+mysql -u[ID] -p[PW] -h[IP]
