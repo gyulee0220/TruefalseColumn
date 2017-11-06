@@ -1,0 +1,12 @@
+#내용 : EC2 서버에서 RDS서버로 접근하는 방법
+# 
+#Project : ICT 캡스톤 디자인 프로젝트
+#
+#User : add6987
+#PW : xmfnzoqtmxhs0220
+#서버 주소 :mydbinstance.cbomcikdkezg.ap-northeast-2.rds.amazonaws.com
+#
+#
+#아래 코드 입력시 해당 데이터 베이스 수정 가능
+# 
+mysql -uadd6987 -pxmfnzoqtmxhs0220 -hmydbinstance.cbomcikdkezg.ap-northeast-2.rds.amazonaws.com
